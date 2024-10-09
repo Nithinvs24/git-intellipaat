@@ -1,2 +1,6 @@
 hi how are you
+<<<<<<< Updated upstream
 im fine
+=======
+Im awesome
+>>>>>>> Stashed changes
